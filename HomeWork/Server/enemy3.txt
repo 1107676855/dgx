@@ -1,0 +1,3 @@
+<createEnemy:{"num":31,"enemyClass":1,"pos":1,"isDie":"false"}>
+<createEnemy:{"num":32,"enemyClass":2,"pos":2,"isDie":"false"}>
+<createEnemy:{"num":33,"enemyClass":1,"pos":3,"isDie":"false"}>
